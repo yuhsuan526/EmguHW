@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace emgu_project
+namespace emguHW1
 {
     static class Program
     {

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 組件的一般資訊是由下列的屬性集控制。
 // 變更這些屬性的值即可修改組件的相關
 // 資訊。
-[assembly: AssemblyTitle("emgu_project")]
+[assembly: AssemblyTitle("emguHW1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("emgu_project")]
+[assembly: AssemblyProduct("emguHW1")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 下列 GUID 為專案公開 (Expose) 至 COM 時所要使用的 typelib ID
-[assembly: Guid("27efc2b2-a7a8-4fb3-9f22-a41b32451897")]
+[assembly: Guid("ce2fd2d5-487d-468a-91e6-78d2804d7ddf")]
 
 // 組件的版本資訊是由下列四項值構成: 
 //

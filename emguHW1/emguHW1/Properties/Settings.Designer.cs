@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace emgu_project.Properties
+namespace emguHW1.Properties
 {
 
 
