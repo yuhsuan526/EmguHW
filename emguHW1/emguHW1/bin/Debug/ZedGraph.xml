@@ -6014,7 +6014,7 @@
             <see cref="T:ZedGraph.YAxis"/>, or <see cref="T:ZedGraph.Y2Axis"/>).
             Note that the <see cref="P:ZedGraph.Chart.Rect"/> must be valid, and
             <see cref="M:ZedGraph.Scale.SetupScaleData(ZedGraph.GraphPane,ZedGraph.Axis)"/> must be called for the
-            current configuration before using this method (this is called everytime
+            current configuration before using this method (this is called every time
             the graph is drawn (i.e., <see cref="M:ZedGraph.GraphPane.Draw(System.Drawing.Graphics)"/> is called).
             </remarks>
             <param name="x">The coordinate value, in user scale units, to
@@ -6035,7 +6035,7 @@
             <see cref="T:ZedGraph.YAxis"/>, or <see cref="T:ZedGraph.Y2Axis"/>).
             Note that the <see cref="P:ZedGraph.Chart.Rect"/> must be valid, and
             <see cref="M:ZedGraph.Scale.SetupScaleData(ZedGraph.GraphPane,ZedGraph.Axis)"/> must be called for the
-            current configuration before using this method (this is called everytime
+            current configuration before using this method (this is called every time
             the graph is drawn (i.e., <see cref="M:ZedGraph.GraphPane.Draw(System.Drawing.Graphics)"/> is called).
             </remarks>
             <param name="isOverrideOrdinal">true to force the axis to honor the data
@@ -6060,7 +6060,7 @@
             <see cref="T:ZedGraph.YAxis"/>, or <see cref="T:ZedGraph.Y2Axis"/>).
             Note that the <see cref="P:ZedGraph.Chart.Rect"/> must be valid, and
             <see cref="M:ZedGraph.Scale.SetupScaleData(ZedGraph.GraphPane,ZedGraph.Axis)"/> must be called for the
-            current configuration before using this method (this is called everytime
+            current configuration before using this method (this is called every time
             the graph is drawn (i.e., <see cref="M:ZedGraph.GraphPane.Draw(System.Drawing.Graphics)"/> is called).
             </remarks>
             <param name="pixVal">The screen pixel value, in graphics device coordinates to

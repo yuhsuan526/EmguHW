@@ -8738,7 +8738,7 @@
         </member>
         <member name="T:Emgu.CV.Util.TbbTaskScheduler">
             <summary>
-            This class canbe used to initiate TBB. Only usefull if it is compiled with TBB support
+            This class canbe used to initiate TBB. Only useful if it is compiled with TBB support
             </summary>
         </member>
         <member name="M:Emgu.CV.Util.TbbTaskScheduler.#ctor">

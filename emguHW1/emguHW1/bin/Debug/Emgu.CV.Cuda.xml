@@ -167,7 +167,7 @@
             Subtracts one matrix from another (c = a - b).
             </summary>
             <param name="a">The matrix where subtraction take place</param>
-            <param name="b">The matrix to be substracted</param>
+            <param name="b">The matrix to be subtracted</param>
             <param name="c">The result of a - b</param>
             <param name="mask">The optional mask that is used to select a subarray. Use null if not needed</param>
             <param name="stream">Use a Stream to call the function asynchronously (non-blocking) or null to call the function synchronously (blocking).</param>
