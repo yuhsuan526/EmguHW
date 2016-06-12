@@ -220,7 +220,7 @@
         </member>
         <member name="F:Emgu.CV.UI.ImageBox._image">
             <summary>
-            The image that is setted throught the Image property
+            The image that is setted thought the Image property
             </summary>
         </member>
         <member name="F:Emgu.CV.UI.ImageBox._displayedImage">
