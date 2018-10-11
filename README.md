@@ -1,3 +1,3 @@
 EmguHW
 ===
-Just a homework
+Just a homework.
